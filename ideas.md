@@ -4,6 +4,8 @@ Existing graphs here:-
 * http://dmtlab.bcu.ac.uk/BIRT/visuals/may15.html
 * http://dmtlab.bcu.ac.uk/BIRT/visuals/may16.html
 
+### Did we know anything that Google didnt!!!
+
 ## Break down the aggregate speed data 
 * To try and provide some geographical focus
 * Demonstrate speed of propagation of congestion around the network and potentially speed of improvement at the end. (I’ve already got a visualisation for this in mind)
