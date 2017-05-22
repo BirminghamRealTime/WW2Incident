@@ -8,6 +8,7 @@ Existing graphs here:-
 * To try and provide some geographical focus
 * Demonstrate speed of propagation of congestion around the network and potentially speed of improvement at the end. (I’ve already got a visualisation for this in mind)
 * Reasons behind the fluctuations in the initial few hours
+* 95% of scoot loops don't report data between 09:30 and 12:30 on 15th
 
 ## Examine traffic flow data to understand demand
 * Do people leave their cars in the city centre and walk home?
