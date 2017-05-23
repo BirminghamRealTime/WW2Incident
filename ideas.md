@@ -12,8 +12,8 @@ Existing graphs here:-
 * Reasons behind the fluctuations in the initial few hours
 * 95% of scoot loops don't report data between 09:30 and 12:30 on 15th
 
-* First version here:- https://drive.google.com/open?id=0BwGwrLWk0TYpeThKNVNTZnJJTlk
-* Only shows the peak hours on Tuesday morning
+* First (now second!) version here:- https://drive.google.com/open?id=0BwGwrLWk0TYpeThKNVNTZnJJTlk
+* Shows from 6am Tuesday until midnight
 * Walsall Road looks worst affected
 * Queues don't spread evenly, but flow back from the major junctions
 
@@ -34,3 +34,6 @@ Existing graphs here:-
 
 ## Examine cycle counter data (when available)
 * Particularly to look at modal shift (and locations) on the Monday morning
+
+## Freight
+* Showed it to head of transportation. Wants to know if we have anything on freight
