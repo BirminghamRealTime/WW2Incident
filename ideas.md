@@ -17,6 +17,10 @@ Existing graphs here:-
 * Walsall Road looks worst affected
 * Queues don't spread evenly, but flow back from the major junctions
 
+* Also done Monday Afternoon (12:00-00:00) now :- https://drive.google.com/open?id=0BwGwrLWk0TYpdkZhRnJnVW5vMkk
+* Patterns are different from Tuesday as people knew less
+* possibly need to do arrows to show direction of traffic (thats in the data already)
+
 ## Examine traffic flow data to understand demand
 * Do people leave their cars in the city centre and walk home?
 * Is demand lower on Tuesday morning, and by how much
@@ -37,3 +41,6 @@ Existing graphs here:-
 
 ## Freight
 * Showed it to head of transportation. Wants to know if we have anything on freight
+
+## Code
+* post the code!!!
