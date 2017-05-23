@@ -12,9 +12,21 @@ Existing graphs here:-
 * Reasons behind the fluctuations in the initial few hours
 * 95% of scoot loops don't report data between 09:30 and 12:30 on 15th
 
+* First version here:- https://drive.google.com/open?id=0BwGwrLWk0TYpeThKNVNTZnJJTlk
+* Only shows the peak hours on Tuesday morning
+* Walsall Road looks worst affected
+* Queues don't spread evenly, but flow back from the major junctions
+
 ## Examine traffic flow data to understand demand
 * Do people leave their cars in the city centre and walk home?
 * Is demand lower on Tuesday morning, and by how much
+
+* Simple graphs now produced, using the geographically located counters only. (Green is the day in question, Blue is the historic trend. X axis is time in 5 minute periods (divide by 12 to get hour of day)
+*  Monday - https://drive.google.com/open?id=0BwGwrLWk0TYpVzFXRno1R0MtTTA
+*  Tuesday - https://drive.google.com/open?id=0BwGwrLWk0TYpcjY1emNYYXJBc2M
+* Traffic flows are generally higher. Is this because of the A38M / M6 being closed?
+* Longer morning peak on the Tuesday morning
+* Massive peak on the monday afternoon
 
 ## Examine car park data
 * To find out how many cars are left in the city centre on the Monday
