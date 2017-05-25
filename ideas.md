@@ -43,8 +43,9 @@ Existing graphs here:-
 ### *Results*
 *  Monday - https://drive.google.com/open?id=0BwGwrLWk0TYpVzFXRno1R0MtTTA
 *  Tuesday - https://drive.google.com/open?id=0BwGwrLWk0TYpcjY1emNYYXJBc2M
-*  Individual sensor date looks as follows: https://drive.google.com/open?id=0BwGwrLWk0TYpdm5TUnpFZ21reFU
-*  Green is normal traffic (or no data) - blue is 15% above normal, red is 15% below normal
+*  Individual sensor data looks as follows Green is normal traffic (or no data) - blue is 15% above normal, red is 15% below normal:
+    * Monday - https://drive.google.com/open?id=0BwGwrLWk0TYpcHlVVk5UejRYNkE
+    * Tuesday - https://drive.google.com/open?id=0BwGwrLWk0TYpdm5TUnpFZ21reFU
 
 ### *Analysis*
 * Traffic flows are a bit higher than normal. Is this because of the A38M / M6 being closed adding extra traffic to the local network
